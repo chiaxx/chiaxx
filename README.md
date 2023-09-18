@@ -14,7 +14,6 @@ I live in Calgary, Alberta. I like music, good food, being outside/inside, and c
 * <a href="#">FlorChia</a> - An Ecommerce Flower Shop
 
 
-![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiaxx&show_icons=true&theme=dark)
 
 <!--
 **chiaxx/chiaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
