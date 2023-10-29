@@ -1,5 +1,5 @@
 ## Hi👋, I'm Chidinma. 
-I live in Alberta. I like music, good food, being outside/inside, and coding.
+I like music, good food, being outside/inside, and coding.
 
 - 🔭 I’m currently working on [Florchia](https://github.com/chiaxx/FlorChia)
 
