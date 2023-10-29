@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Chidinma.</h1>
-<h3 align="center">A Passionate Software Engineer from Canada</h3>
+<h1>Hi, I'm Chidinma.</h1>
+<h3>A Passionate Software Engineer from Canada</h3>
 
 - 🔭 I’m currently working on [Florchia](https://github.com/chiaxx/FlorChia)
 
