@@ -1,5 +1,5 @@
-## Hi👋, I'm Chidinma. 
-I like music, good food, being outside/inside, and coding.
+## Hi, I'm Chidinma. 
+Thanks for stopping by! I'm currently learning the MERN stack to build and deploy full stack websites and web applications. 🌲
 
 ### Get In Touch
 <a href="mailto:chidinmaehirim002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
