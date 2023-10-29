@@ -1,5 +1,5 @@
-<h1>Hi, I'm Chidinma.</h1>
-<h3>A Passionate Software Engineer from Canada</h3>
+## Hi👋, I'm Chidinma. 
+I live in Alberta. I like music, good food, being outside/inside, and coding.
 
 - 🔭 I’m currently working on [Florchia](https://github.com/chiaxx/FlorChia)
 
