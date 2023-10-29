@@ -7,10 +7,9 @@ I like music, good food, being outside/inside, and coding.
 <a href="mailto:chidinmaehirim002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/chidinma-ehirim-725891202/" target = _blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://www.youtube.com/channel/UCCG4wbZmZsQxN7RU7RNSItQ" target= _blank><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://chidinmaehirim.netlify.app/" target=_blank> <img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
+<a href="https://chidinmaehirim.netlify.app/" target=_blank> <img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logoColor=white"></a> 
 <a href="https://x.com/chidinma_28" target= _blank><img src="https://img.shields.io/badge/Twitter-1CA0F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
-<a href= target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chidinma_28" height="30" width="40" /></a>
 
 
 ### What I Work With
